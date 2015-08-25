@@ -1,2 +1,1 @@
-# codelab-androideTv
-informacoes sobre o meetup
+# codelab-androidTv
